@@ -48,7 +48,7 @@ COUNTRY_MAP = {
 
     "Argentina": "阿根廷🇦🇷",  
     "Algeria": "阿尔及利亚🇩🇿",
-    "Astria": "奥地利🇦🇹",
+    "Austria": "奥地利🇦🇹",
     "Jordan": "约旦🇯🇴",
 
     "Portugal": "葡萄牙🇵🇹",
