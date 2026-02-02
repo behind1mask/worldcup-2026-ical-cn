@@ -70,7 +70,26 @@ for event in calendar.events:
         title = title.replace(en, zh)
     event.name = title.replace(" - ", " vs ")
 
+# ====== 重点修改开始：设置日历名称 ======
+ics_content = calendar.serialize()
+
+# 1. 移除所有已有的 X-WR-CALNAME 行（不区分大小写）
+lines = [line for line in ics_content.splitlines() 
+         if not line.strip().upper().startswith('X-WR-CALNAME:')]
+
+# 2. 在 BEGIN:VCALENDAR 后插入新名称
+new_lines = []
+found_vcalendar = False
+for line in lines:
+    new_lines.append(line)
+    if line.strip() == 'BEGIN:VCALENDAR' and not found_vcalendar:
+        new_lines.append('X-WR-CALNAME:2026美加墨世界杯')  # 👈 关键修改
+        found_vcalendar = True
+
+new_ics_content = '\n'.join(new_lines)
+# ====== 重点修改结束 ======
+
 OUTPUT_FILE.parent.mkdir(exist_ok=True)
-OUTPUT_FILE.write_text(calendar.serialize(), encoding="utf-8")
+OUTPUT_FILE.write_text(new_ics_content, encoding="utf-8")
 
 print("iCal updated")
