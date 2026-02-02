@@ -2,7 +2,7 @@ import requests
 from ics import Calendar
 from pathlib import Path
 
-SOURCE_ICS_URL = "webcal://ics.fixtur.es/v2/league/fifa-world-cup-2026.ics"
+SOURCE_ICS_URL = "https://ics.fixtur.es/v2/league/fifa-world-cup-2026.ics"
 OUTPUT_FILE = Path("docs/worldcup_cn.ics")
 
 COUNTRY_MAP = {
