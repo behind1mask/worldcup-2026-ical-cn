@@ -49,7 +49,6 @@ COUNTRY_MAP = {
     "France": "法国🇫🇷",
     "Senegal": "塞内加尔🇸🇳",
     "": "伊拉克🇮🇶",
-    "": "玻利维亚🇧🇴"
     "Norway": "挪威🇳🇴",
 
     "Argentina": "阿根廷🇦🇷",  
