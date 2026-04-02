@@ -9,10 +9,10 @@ COUNTRY_MAP = {
     "Mexico": "墨西哥🇲🇽",
     "South Africa": "南非🇿🇦",
     "South Korea": "韩国🇰🇷",   
-    "": "捷克🇨🇿",
+    "Czech Republic": "捷克🇨🇿",
     
     "Canada": "加拿大🇨🇦",
-    "": "波黑🇧🇦",
+    "Bosnia and Herzegovina": "波黑🇧🇦",
     "Qatar": "卡塔尔🇶🇦",
     "Switzerland": "瑞士🇨🇭",
 
@@ -24,7 +24,7 @@ COUNTRY_MAP = {
     "United States": "美国🇺🇸",
     "Paraguay": "巴拉圭🇵🇾",
     "Australia": "澳大利亚🇦🇺",
-    "": "土耳其🇹🇷",
+    "Turkey": "土耳其🇹🇷",
 
     "Germany": "德国🇩🇪",
     "Curaçao": "库拉索🇨🇼",
@@ -33,7 +33,7 @@ COUNTRY_MAP = {
 
     "Netherlands": "荷兰🇳🇱",
     "Japan": "日本🇯🇵",
-    "": "瑞典🇸🇪",
+    "Sweden": "瑞典🇸🇪",
     "Tunisia": "突尼斯🇹🇳",
 
     "Belgium": "比利时🇧🇪",
@@ -48,7 +48,7 @@ COUNTRY_MAP = {
     
     "France": "法国🇫🇷",
     "Senegal": "塞内加尔🇸🇳",
-    "": "伊拉克🇮🇶",
+    "Iraq": "伊拉克🇮🇶",
     "Norway": "挪威🇳🇴",
 
     "Argentina": "阿根廷🇦🇷",  
@@ -57,7 +57,7 @@ COUNTRY_MAP = {
     "Jordan": "约旦🇯🇴",
 
     "Portugal": "葡萄牙🇵🇹",
-    "": "刚果（金）🇨🇩",
+    "DR Congo": "刚果（金）🇨🇩",
     "Uzbekistan": "乌兹别克斯坦🇺🇿",
     "Colombia": "哥伦比亚🇨🇴",
   
