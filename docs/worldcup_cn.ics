@@ -10,8 +10,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260627T044500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260627T030000Z
@@ -24,8 +24,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260624T234500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260624T220000Z
@@ -41,8 +41,8 @@ CREATED:20260421T185533Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:FIFA World Cup 2026 third-place play-off day.
+DTSTAMP:20260423T210229Z
+DESCRIPTION:FIFA World Cup 2026 third-place play-off day.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185533Z
 STATUS:CONFIRMED
 SUMMARY:World Cup third-place match
@@ -53,8 +53,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260711T224500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260711T210000Z
@@ -67,8 +67,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260622T224500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260622T210000Z
@@ -81,8 +81,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260629T184500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260629T170000Z
@@ -95,8 +95,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260627T014500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260627T000000Z
@@ -109,8 +109,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260702T014500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260702T000000Z
@@ -123,8 +123,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260709T214500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260709T200000Z
@@ -137,8 +137,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260614T184500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260614T170000Z
@@ -151,8 +151,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260621T014500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260621T000000Z
@@ -165,8 +165,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260710T204500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260710T190000Z
@@ -182,8 +182,8 @@ CREATED:20260421T185533Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Start of the FIFA World Cup 2026 Round of 16.
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Start of the FIFA World Cup 2026 Round of 16.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185557Z
 STATUS:CONFIRMED
 SUMMARY:World Cup Round of 16
@@ -194,8 +194,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260707T014500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260707T000000Z
@@ -208,8 +208,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260625T214500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260625T200000Z
@@ -222,8 +222,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260620T184500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260620T170000Z
@@ -236,8 +236,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260619T234500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260619T220000Z
@@ -250,8 +250,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260618T204500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260618T190000Z
@@ -264,8 +264,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260615T234500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260615T220000Z
@@ -278,8 +278,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260622T024500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260622T010000Z
@@ -292,8 +292,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260622T184500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260622T170000Z
@@ -306,8 +306,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260712T024500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260712T010000Z
@@ -320,8 +320,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260613T234500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260613T220000Z
@@ -334,8 +334,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260617T054500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260617T040000Z
@@ -348,8 +348,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260627T014500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260627T000000Z
@@ -362,8 +362,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260715T204500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260715T190000Z
@@ -376,8 +376,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260628T011500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260627T233000Z
@@ -390,8 +390,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260615T204500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260615T190000Z
@@ -404,8 +404,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260618T004500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260617T230000Z
@@ -418,8 +418,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260627T224500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260627T210000Z
@@ -432,8 +432,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260616T024500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260616T010000Z
@@ -446,8 +446,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260623T184500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260623T170000Z
@@ -460,8 +460,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260626T034500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260626T020000Z
@@ -474,8 +474,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260621T174500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260621T160000Z
@@ -488,8 +488,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260628T011500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260627T233000Z
@@ -502,8 +502,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260615T004500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260614T230000Z
@@ -516,8 +516,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260627T224500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260627T210000Z
@@ -530,8 +530,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260611T204500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260611T190000Z
@@ -544,8 +544,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260626T004500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260625T230000Z
@@ -558,8 +558,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260625T024500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260625T010000Z
@@ -572,8 +572,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260617T214500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260617T200000Z
@@ -586,8 +586,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260623T014500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260623T000000Z
@@ -600,8 +600,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260621T234500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260621T220000Z
@@ -614,8 +614,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260626T204500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260626T190000Z
@@ -628,8 +628,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260703T044500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260703T030000Z
@@ -642,8 +642,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260612T204500Z
 LAST-MODIFIED:20260421T184845Z
 DTSTART:20260612T190000Z
@@ -659,8 +659,8 @@ CREATED:20260421T185533Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Start of the FIFA World Cup 2026 quarter-finals.
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Start of the FIFA World Cup 2026 quarter-finals.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185601Z
 STATUS:CONFIRMED
 SUMMARY:World Cup quarter-finals
@@ -671,8 +671,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260620T044500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260620T030000Z
@@ -685,8 +685,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260705T214500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260705T200000Z
@@ -702,8 +702,8 @@ CREATED:20260421T185533Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Start of the FIFA World Cup 2026 semi-finals.
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Start of the FIFA World Cup 2026 semi-finals.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185605Z
 STATUS:CONFIRMED
 SUMMARY:World Cup semi-finals
@@ -714,8 +714,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260618T174500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260618T160000Z
@@ -731,8 +731,8 @@ CREATED:20260421T185533Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:FIFA World Cup 2026 final day.
+DTSTAMP:20260423T210229Z
+DESCRIPTION:FIFA World Cup 2026 final day.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185533Z
 STATUS:CONFIRMED
 SUMMARY:World Cup final
@@ -743,8 +743,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260620T214500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260620T200000Z
@@ -757,8 +757,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260615T174500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260615T160000Z
@@ -771,8 +771,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260617T024500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260617T010000Z
@@ -785,8 +785,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260615T034500Z
 LAST-MODIFIED:20260421T184845Z
 DTSTART:20260615T020000Z
@@ -799,8 +799,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260616T234500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260616T220000Z
@@ -813,8 +813,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260614T054500Z
 LAST-MODIFIED:20260421T184845Z
 DTSTART:20260614T040000Z
@@ -827,8 +827,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260619T204500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260619T190000Z
@@ -841,8 +841,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260614T214500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260614T200000Z
@@ -855,8 +855,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260628T034500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260628T020000Z
@@ -869,8 +869,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260719T204500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260719T190000Z
@@ -883,8 +883,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260623T214500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260623T200000Z
@@ -897,8 +897,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260624T004500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260623T230000Z
@@ -911,8 +911,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260624T204500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260624T190000Z
@@ -925,8 +925,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260623T044500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260623T030000Z
@@ -939,8 +939,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260714T204500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260714T190000Z
@@ -953,8 +953,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260624T204500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260624T190000Z
@@ -970,8 +970,8 @@ CREATED:20260421T185533Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Start of the FIFA World Cup 2026 knockout stage.
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Start of the FIFA World Cup 2026 knockout stage.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185554Z
 STATUS:CONFIRMED
 SUMMARY:World Cup Round of 32
@@ -982,8 +982,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260619T024500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260619T010000Z
@@ -996,8 +996,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260625T024500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260625T010000Z
@@ -1010,8 +1010,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260626T204500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260626T190000Z
@@ -1024,8 +1024,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260614T024500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260614T010000Z
@@ -1038,8 +1038,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260628T034500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260628T020000Z
@@ -1052,8 +1052,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260621T054500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260621T040000Z
@@ -1066,8 +1066,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260618T034500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260618T020000Z
@@ -1080,8 +1080,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260624T234500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260624T220000Z
@@ -1094,8 +1094,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260617T184500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260617T170000Z
@@ -1108,8 +1108,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260613T204500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260613T190000Z
@@ -1122,8 +1122,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260621T204500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260621T190000Z
@@ -1136,8 +1136,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260620T021500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260620T003000Z
@@ -1150,8 +1150,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260630T024500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260630T010000Z
@@ -1164,8 +1164,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260704T184500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260704T170000Z
@@ -1178,8 +1178,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260613T024500Z
 LAST-MODIFIED:20251210T080638Z
 DTSTART:20260613T010000Z
@@ -1192,8 +1192,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260627T044500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260627T030000Z
@@ -1206,8 +1206,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260701T024500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260701T010000Z
@@ -1220,8 +1220,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260628T204500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260628T190000Z
@@ -1234,8 +1234,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260626T034500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260626T020000Z
@@ -1248,8 +1248,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260616T204500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260616T190000Z
@@ -1262,8 +1262,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260626T004500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260625T230000Z
@@ -1276,8 +1276,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260718T224500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260718T210000Z
@@ -1290,8 +1290,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20260421T184847Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260706T014500Z
 LAST-MODIFIED:20260421T184847Z
 DTSTART:20260706T000000Z
@@ -1304,8 +1304,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260624T034500Z
 LAST-MODIFIED:20260421T184846Z
 DTSTART:20260624T020000Z
@@ -1318,8 +1318,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080638Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260612T034500Z
 LAST-MODIFIED:20260421T184845Z
 DTSTART:20260612T020000Z
@@ -1332,8 +1332,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080640Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260625T214500Z
 LAST-MODIFIED:20251210T080640Z
 DTSTART:20260625T200000Z
@@ -1346,8 +1346,8 @@ BEGIN:VEVENT
 SEQUENCE:0
 CREATED:20251210T080639Z
 CLASS:PUBLIC
-DTSTAMP:20260423T150226Z
-DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+DTSTAMP:20260423T210229Z
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 DTEND:20260618T234500Z
 LAST-MODIFIED:20251210T080639Z
 DTSTART:20260618T220000Z
