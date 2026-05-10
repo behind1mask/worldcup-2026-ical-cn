@@ -25,6 +25,9 @@ COUNTRY_MAP = {
     "Paraguay": "巴拉圭🇵🇾",
     "Australia": "澳大利亚🇦🇺",
     "Türkiye": "土耳其🇹🇷",
+    "Turkiye": "土耳其🇹🇷",
+    "Turkey": "土耳其🇹🇷",
+    "TÃ¼rkiye": "土耳其🇹🇷",
 
     "Germany": "德国🇩🇪",
     "Curaçao": "库拉索🇨🇼",
