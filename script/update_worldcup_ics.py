@@ -25,8 +25,6 @@ COUNTRY_MAP = {
     "Paraguay": "巴拉圭🇵🇾",
     "Australia": "澳大利亚🇦🇺",
     "Türkiye": "土耳其🇹🇷",
-    "Turkiye": "土耳其🇹🇷",
-    "Turkey": "土耳其🇹🇷",
     "TÃ¼rkiye": "土耳其🇹🇷",
 
     "Germany": "德国🇩🇪",
@@ -71,34 +69,83 @@ COUNTRY_MAP = {
     "Panama": "巴拿马🇵🇦",
 }
 
+SPECIAL_EVENT_MAP = {
+    "World Cup Round of 32": "世界杯32强赛",
+    "Start of the FIFA World Cup 2026 knockout stage.": "2026美加墨世界杯淘汰赛阶段开始。",
+
+    "World Cup Round of 16": "世界杯16强赛",
+    "Start of the FIFA World Cup 2026 Round of 16.": "2026美加墨世界杯16强赛开始。",
+
+    "World Cup quarter-finals": "世界杯四分之一决赛",
+    "Start of the FIFA World Cup 2026 quarter-finals.": "2026美加墨世界杯四分之一决赛开始。",
+
+    "World Cup semi-finals": "世界杯半决赛",
+    "Start of the FIFA World Cup 2026 semi-finals.": "2026美加墨世界杯半决赛开始。",
+
+    "World Cup third-place match": "世界杯季军赛",
+    "FIFA World Cup 2026 third-place play-off day.": "2026美加墨世界杯季军赛比赛日。",
+
+    "World Cup final": "世界杯决赛",
+    "FIFA World Cup 2026 final day.": "2026美加墨世界杯决赛比赛日。",
+}
+
 raw_ics = requests.get(SOURCE_ICS_URL, timeout=30).text
 calendar = Calendar(raw_ics)
 
 for event in calendar.events:
-    title = event.name
+
+    title = event.name or ""
+    description = event.description or ""
+
+    # ===== 修复乱码 =====
+    try:
+        title = title.encode('latin1').decode('utf-8')
+    except:
+        pass
+
+    try:
+        description = description.encode('latin1').decode('utf-8')
+    except:
+        pass
+
+    # ===== 国家翻译 =====
     for en, zh in COUNTRY_MAP.items():
         title = title.replace(en, zh)
-    event.name = title.replace(" - ", " vs ")
+        description = description.replace(en, zh)
 
-# ====== 重点修改开始：设置日历名称 ======
+    # ===== 特殊赛事翻译 =====
+    for en, zh in SPECIAL_EVENT_MAP.items():
+        title = title.replace(en, zh)
+        description = description.replace(en, zh)
+
+    # ===== 美化显示 =====
+    title = title.replace(" - ", " vs ")
+
+    event.name = title
+    event.description = description
+
+# ===== 序列化 =====
 ics_content = calendar.serialize()
 
-# 1. 移除所有已有的 X-WR-CALNAME 行（不区分大小写）
-lines = [line for line in ics_content.splitlines() 
-         if not line.strip().upper().startswith('X-WR-CALNAME:')]
+# ===== 日历名称 =====
+lines = [
+    line for line in ics_content.splitlines()
+    if not line.strip().upper().startswith('X-WR-CALNAME:')
+]
 
-# 2. 在 BEGIN:VCALENDAR 后插入新名称
 new_lines = []
 found_vcalendar = False
+
 for line in lines:
     new_lines.append(line)
+
     if line.strip() == 'BEGIN:VCALENDAR' and not found_vcalendar:
-        new_lines.append('X-WR-CALNAME:2026美加墨世界杯')  # 👈 关键修改
+        new_lines.append('X-WR-CALNAME:2026美加墨世界杯')
         found_vcalendar = True
 
 new_ics_content = '\n'.join(new_lines)
-# ====== 重点修改结束 ======
 
+# ===== 输出文件 =====
 OUTPUT_FILE.parent.mkdir(exist_ok=True)
 OUTPUT_FILE.write_text(new_ics_content, encoding="utf-8")
 
