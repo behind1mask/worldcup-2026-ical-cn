@@ -31,6 +31,7 @@ COUNTRY_MAP = {
 
     "Germany": "德国🇩🇪",
     "Curaçao": "库拉索🇨🇼",
+    "CuraÃ§ao": "库拉索🇨🇼",
     "Ivory Coast": "科特迪瓦🇨🇮",
     "Ecuador": "厄瓜多尔🇪🇨",  
 
