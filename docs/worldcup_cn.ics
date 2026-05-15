@@ -42,10 +42,10 @@ DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 CLASS:PUBLIC
 DTSTAMP:20260515T011007Z
-DESCRIPTION:FIFA World Cup 2026 third-place play-off day.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
+DESCRIPTION:2026美加墨世界杯季军赛比赛日。\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185533Z
 STATUS:CONFIRMED
-SUMMARY:World Cup third-place match
+SUMMARY:世界杯季军赛
 TRANSP:OPAQUE
 UID:4HQyqozWqsg9kLv2uXKOmNslIYTnqeT1YFBOOGHB@maak-agenda.nl
 END:VEVENT
@@ -197,10 +197,10 @@ DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 CLASS:PUBLIC
 DTSTAMP:20260515T011007Z
-DESCRIPTION:Start of the FIFA World Cup 2026 Round of 16.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
+DESCRIPTION:2026美加墨世界杯16强赛开始。\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185557Z
 STATUS:CONFIRMED
-SUMMARY:World Cup Round of 16
+SUMMARY:世界杯16强赛
 TRANSP:OPAQUE
 UID:Rlwm5qaOGNZZY8ONDp9WshVpx1FNSyKi1SNf1Q3u@maak-agenda.nl
 END:VEVENT
@@ -772,10 +772,10 @@ DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 CLASS:PUBLIC
 DTSTAMP:20260515T011007Z
-DESCRIPTION:Start of the FIFA World Cup 2026 quarter-finals.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
+DESCRIPTION:2026美加墨世界杯四分之一决赛开始。\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185601Z
 STATUS:CONFIRMED
-SUMMARY:World Cup quarter-finals
+SUMMARY:世界杯四分之一决赛
 TRANSP:OPAQUE
 UID:jAzEkMlmAvnm95BwS6K5zpFN1EmZ5g3V8U0YdPF5@maak-agenda.nl
 END:VEVENT
@@ -815,10 +815,10 @@ DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 CLASS:PUBLIC
 DTSTAMP:20260515T011007Z
-DESCRIPTION:Start of the FIFA World Cup 2026 semi-finals.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
+DESCRIPTION:2026美加墨世界杯半决赛开始。\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185605Z
 STATUS:CONFIRMED
-SUMMARY:World Cup semi-finals
+SUMMARY:世界杯半决赛
 TRANSP:OPAQUE
 UID:GOtyRxsBQsofOZHhboGZQyRulfXVmwORPnEPdL27@maak-agenda.nl
 END:VEVENT
@@ -844,10 +844,10 @@ DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 CLASS:PUBLIC
 DTSTAMP:20260515T011007Z
-DESCRIPTION:FIFA World Cup 2026 final day.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
+DESCRIPTION:2026美加墨世界杯决赛比赛日。\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185533Z
 STATUS:CONFIRMED
-SUMMARY:World Cup final
+SUMMARY:世界杯决赛
 TRANSP:OPAQUE
 UID:2akaUrP6fD4GLfTSmhYlpMxA9jGDxoU9DFukmBNu@maak-agenda.nl
 END:VEVENT
@@ -1097,10 +1097,10 @@ DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 CLASS:PUBLIC
 DTSTAMP:20260515T011007Z
-DESCRIPTION:Start of the FIFA World Cup 2026 knockout stage.\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
+DESCRIPTION:2026美加墨世界杯淘汰赛阶段开始。\n\nSupport Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures
 LAST-MODIFIED:20260421T185554Z
 STATUS:CONFIRMED
-SUMMARY:World Cup Round of 32
+SUMMARY:世界杯32强赛
 TRANSP:OPAQUE
 UID:8bdjr4dUYnPSxfHRz9Gip32sTCvkwv78GXPB1GSC@maak-agenda.nl
 END:VEVENT
