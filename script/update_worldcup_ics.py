@@ -96,6 +96,26 @@ for event in calendar.events:
 
     title = event.name or ""
     description = event.description or ""
+    # 删除原作者广告
+description = description.replace(
+    "Calendar not up to date? Check https://fixtur.es/up-to-date?path=league/fifa-world-cup-2026",
+    ""
+)
+
+description = description.replace(
+    "Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures",
+    ""
+)
+description = description.strip()
+
+if description:
+    description += "\n\n"
+
+description += (
+    "☕ 觉得这个订阅对你有帮助？\n"
+    "欢迎赞助支持后续维护与更新。\n\n"
+    "支付宝：luyaoxiansen@foxmail.com"
+)
 
     # ===== 修复乱码 =====
     try:
