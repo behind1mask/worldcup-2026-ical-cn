@@ -104,7 +104,7 @@ for component in calendar.walk():
     description = str(component.get("DESCRIPTION", ""))
     location = str(component.get("LOCATION", ""))
 
-    # 修复乱码
+   # 修复乱码
     try:
         summary = summary.encode("latin1").decode("utf-8")
     except:
