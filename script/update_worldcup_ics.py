@@ -1,6 +1,7 @@
+```python
 import requests
-from ics import Calendar
 from pathlib import Path
+from icalendar import Calendar
 
 SOURCE_ICS_URL = "https://ics.fixtur.es/v2/league/fifa-world-cup-2026.ics"
 OUTPUT_FILE = Path("docs/worldcup_cn.ics")
@@ -8,9 +9,9 @@ OUTPUT_FILE = Path("docs/worldcup_cn.ics")
 COUNTRY_MAP = {
     "Mexico": "墨西哥🇲🇽",
     "South Africa": "南非🇿🇦",
-    "South Korea": "韩国🇰🇷",   
+    "South Korea": "韩国🇰🇷",
     "Czech Republic": "捷克🇨🇿",
-    
+
     "Canada": "加拿大🇨🇦",
     "Bosnia and Herzegovina": "波黑🇧🇦",
     "Qatar": "卡塔尔🇶🇦",
@@ -19,7 +20,7 @@ COUNTRY_MAP = {
     "Brazil": "巴西🇧🇷",
     "Morocco": "摩洛哥🇲🇦",
     "Haiti": "海地🇭🇹",
-    "Scotland": "苏格兰🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "Scotland": "苏格兰🏴",
 
     "United States": "美国🇺🇸",
     "Paraguay": "巴拉圭🇵🇾",
@@ -31,7 +32,7 @@ COUNTRY_MAP = {
     "Curaçao": "库拉索🇨🇼",
     "CuraÃ§ao": "库拉索🇨🇼",
     "Ivory Coast": "科特迪瓦🇨🇮",
-    "Ecuador": "厄瓜多尔🇪🇨",  
+    "Ecuador": "厄瓜多尔🇪🇨",
 
     "Netherlands": "荷兰🇳🇱",
     "Japan": "日本🇯🇵",
@@ -47,13 +48,13 @@ COUNTRY_MAP = {
     "Cape Verde": "佛得角🇨🇻",
     "Saudi Arabia": "沙特阿拉伯🇸🇦",
     "Uruguay": "乌拉圭🇺🇾",
-    
+
     "France": "法国🇫🇷",
     "Senegal": "塞内加尔🇸🇳",
     "Iraq": "伊拉克🇮🇶",
     "Norway": "挪威🇳🇴",
 
-    "Argentina": "阿根廷🇦🇷",  
+    "Argentina": "阿根廷🇦🇷",
     "Algeria": "阿尔及利亚🇩🇿",
     "Austria": "奥地利🇦🇹",
     "Jordan": "约旦🇯🇴",
@@ -62,8 +63,8 @@ COUNTRY_MAP = {
     "DR Congo": "刚果（金）🇨🇩",
     "Uzbekistan": "乌兹别克斯坦🇺🇿",
     "Colombia": "哥伦比亚🇨🇴",
-  
-    "England": "英格兰🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+
+    "England": "英格兰🏴",
     "Croatia": "克罗地亚🇭🇷",
     "Ghana": "加纳🇬🇭",
     "Panama": "巴拿马🇵🇦",
@@ -89,84 +90,84 @@ SPECIAL_EVENT_MAP = {
     "FIFA World Cup 2026 final day.": "2026美加墨世界杯决赛比赛日。",
 }
 
-raw_ics = requests.get(SOURCE_ICS_URL, timeout=30).text
-calendar = Calendar(raw_ics)
+response = requests.get(SOURCE_ICS_URL, timeout=30)
+response.raise_for_status()
 
-for event in calendar.events:
+calendar = Calendar.from_ical(response.content)
 
-    title = event.name or ""
-    description = event.description or ""
-    # 删除原作者广告
-description = description.replace(
-    "Calendar not up to date? Check https://fixtur.es/up-to-date?path=league/fifa-world-cup-2026",
-    ""
-)
+for component in calendar.walk():
 
-description = description.replace(
-    "Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures",
-    ""
-)
-description = description.strip()
+    if component.name != "VEVENT":
+        continue
 
-if description:
-    description += "\n\n"
+    summary = str(component.get("SUMMARY", ""))
+    description = str(component.get("DESCRIPTION", ""))
+    location = str(component.get("LOCATION", ""))
 
-description += (
-    "☕ 觉得这个订阅对你有帮助？\n"
-    "欢迎赞助支持后续维护与更新。\n\n"
-    "支付宝：luyaoxiansen@foxmail.com"
-)
-
-    # ===== 修复乱码 =====
+    # 修复乱码
     try:
-        title = title.encode('latin1').decode('utf-8')
+        summary = summary.encode("latin1").decode("utf-8")
     except:
         pass
 
     try:
-        description = description.encode('latin1').decode('utf-8')
+        description = description.encode("latin1").decode("utf-8")
     except:
         pass
 
-    # ===== 国家翻译 =====
+    try:
+        location = location.encode("latin1").decode("utf-8")
+    except:
+        pass
+
+    # 国家翻译
     for en, zh in COUNTRY_MAP.items():
-        title = title.replace(en, zh)
+        summary = summary.replace(en, zh)
         description = description.replace(en, zh)
+        location = location.replace(en, zh)
 
-    # ===== 特殊赛事翻译 =====
+    # 特殊赛事翻译
     for en, zh in SPECIAL_EVENT_MAP.items():
-        title = title.replace(en, zh)
+        summary = summary.replace(en, zh)
         description = description.replace(en, zh)
 
-    # ===== 美化显示 =====
-    title = title.replace(" - ", " vs ")
+    # 美化
+    summary = summary.replace(" - ", " vs ")
 
-    event.name = title
-    event.description = description
+    # 删除原作者广告
+    description = description.replace(
+        "Calendar not up to date? Check https://fixtur.es/up-to-date?path=league/fifa-world-cup-2026",
+        ""
+    )
 
-# ===== 序列化 =====
-ics_content = calendar.serialize()
+    description = description.replace(
+        "Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/fixtures",
+        ""
+    )
 
-# ===== 日历名称 =====
-lines = [
-    line for line in ics_content.splitlines()
-    if not line.strip().upper().startswith('X-WR-CALNAME:')
-]
+    description = description.strip()
 
-new_lines = []
-found_vcalendar = False
+    if description:
+        description += "\n\n"
 
-for line in lines:
-    new_lines.append(line)
+    description += (
+        "☕ 觉得这个订阅对你有帮助？\n"
+        "欢迎赞助支持后续维护与更新。\n\n"
+        "支付宝：luyaoxiansen@foxmail.com"
+    )
 
-    if line.strip() == 'BEGIN:VCALENDAR' and not found_vcalendar:
-        new_lines.append('X-WR-CALNAME:2026美加墨世界杯')
-        found_vcalendar = True
+    component["SUMMARY"] = summary
+    component["DESCRIPTION"] = description
 
-new_ics_content = '\n'.join(new_lines)
+    if location:
+        component["LOCATION"] = location
 
-# ===== 输出文件 =====
-OUTPUT_FILE.parent.mkdir(exist_ok=True)
-OUTPUT_FILE.write_text(new_ics_content, encoding="utf-8")
+# 日历名称
+calendar["X-WR-CALNAME"] = "2026美加墨世界杯"
 
-print("iCal updated")
+OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+with open(OUTPUT_FILE, "wb") as f:
+    f.write(calendar.to_ical())
+
+print("World Cup iCal updated successfully.")
