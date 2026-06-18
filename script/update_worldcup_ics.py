@@ -93,7 +93,7 @@ VENUE_MAP = {
     "Estadio Banorte": "阿兹特克体育场，墨西哥城，墨西哥",
     "Estadio Akron": "阿克伦球场，萨波潘，墨西哥",
     "BMO Field": "BMO球场，多伦多，加拿大",
-    "SoFi": "SoFi体育场，英格尔伍德，美国",
+    "SoFi": "SoFi体育场，英格尔坞德，美国",
     "Levi's": "李维斯体育场，圣克拉拉，美国",
     "MetLife": "大都会人寿体育场，东拉瑟福德，美国",
     "Gillette": "吉列体育场，福克斯伯勒，美国",
@@ -122,7 +122,7 @@ for component in calendar.walk():
     description = str(component.get("DESCRIPTION", ""))
     location = str(component.get("LOCATION", ""))
 
-    # 修复乱码
+   # 修复乱码
     try:
         summary = summary.encode("latin1").decode("utf-8")
     except:
@@ -149,14 +149,14 @@ for component in calendar.walk():
         summary = summary.replace(en, zh)
         description = description.replace(en, zh)
 
+    # 美化
+    summary = summary.replace(" - ", " vs ")
+    
     # 场馆与地名翻译
     for en, zh in VENUE_MAP.items():
         summary = summary.replace(en, zh)
         description = description.replace(en, zh)
         location = location.replace(en, zh)
-
-    # 美化
-    summary = summary.replace(" - ", " vs ")
 
     # 删除原作者广告
     description = description.replace(
@@ -180,12 +180,11 @@ for component in calendar.walk():
         "支付宝：luyaoxiansen@foxmail.com"
     )
 
-    # 安全地更新属性，避免 icalendar 属性重复
-    component.replace("SUMMARY", summary)
-    component.replace("DESCRIPTION", description)
+    component["SUMMARY"] = summary
+    component["DESCRIPTION"] = description
 
     if location:
-        component.replace("LOCATION", location)
+        component["LOCATION"] = location
 
 # 日历名称
 calendar["X-WR-CALNAME"] = "2026美加墨世界杯"
