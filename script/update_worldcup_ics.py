@@ -19,7 +19,7 @@ COUNTRY_MAP = {
     "Brazil": "巴西🇧🇷",
     "Morocco": "摩洛哥🇲🇦",
     "Haiti": "海地🇭🇹",
-    "Scotland": "苏格兰🏴",
+    "Scotland": "苏格兰🏴󠁧󠁢󠁳󠁣󠁴󠁿",
 
     "United States": "美国🇺🇸",
     "Paraguay": "巴拉圭🇵🇾",
@@ -63,7 +63,7 @@ COUNTRY_MAP = {
     "Uzbekistan": "乌兹别克斯坦🇺🇿",
     "Colombia": "哥伦比亚🇨🇴",
 
-    "England": "英格兰🏴",
+    "England": "英格兰🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "Croatia": "克罗地亚🇭🇷",
     "Ghana": "加纳🇬🇭",
     "Panama": "巴拿马🇵🇦",
