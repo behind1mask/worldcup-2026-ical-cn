@@ -1,4 +1,3 @@
-```python
 import requests
 from pathlib import Path
 from icalendar import Calendar
